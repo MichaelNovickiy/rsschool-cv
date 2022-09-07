@@ -35,6 +35,6 @@ function numberToPower(number, power){
   * [IT-Incubator](https://it-incubator.ru/education/front-end)
 
 ## English
-A2-B1 
-[efset.org](https://www.efset.org/cert/3a5u5o)
-![Это опциональный alt-текст](./img/eng.png)
+* A2-B1 
+* [efset.org](https://www.efset.org/cert/3a5u5o)
+* ![eng test grade](./img/eng.png)
